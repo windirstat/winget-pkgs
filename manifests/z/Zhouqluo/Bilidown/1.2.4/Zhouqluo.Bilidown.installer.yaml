@@ -1,4 +1,4 @@
-# Created with YamlCreate.ps1 v2.4.1 Dumplings Mod $debug=QUSU.CRLF.7-4-5.Win32NT
+# Automatically updated by the winget bot at 2024/Oct/23
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
 
 PackageIdentifier: Zhouqluo.Bilidown
@@ -14,14 +14,14 @@ Installers:
 - Architecture: x64
   Scope: user
   InstallerUrl: https://zhouql.vip/bdupdate/win32/bilidown%20Setup%201.2.4.exe
-  InstallerSha256: 003691FB04C43EF8A1522F17F53F8B3EEEFFA466A03C947F47D9D0F1A1C901A6
+  InstallerSha256: 0F0EDEF5C9B6A6C49006B93B285EB849E1CCBCFBD7216AA52DB48E8921CD59CA
   InstallerSwitches:
     Custom: /currentuser
   ProductCode: 87d9f783-ba0a-5d51-8855-e307fcc7796a
 - Architecture: x64
   Scope: machine
   InstallerUrl: https://zhouql.vip/bdupdate/win32/bilidown%20Setup%201.2.4.exe
-  InstallerSha256: 003691FB04C43EF8A1522F17F53F8B3EEEFFA466A03C947F47D9D0F1A1C901A6
+  InstallerSha256: 0F0EDEF5C9B6A6C49006B93B285EB849E1CCBCFBD7216AA52DB48E8921CD59CA
   InstallerSwitches:
     Custom: /allusers
   ProductCode: 87d9f783-ba0a-5d51-8855-e307fcc7796a
